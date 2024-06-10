@@ -1,5 +1,5 @@
 # Decapod-DS_SkillSet
-Data_preparation_and_validation / Data_story_telling / Excel / Exploratory_analysis_and_modeling / ML /  Python / R / SQL / Stats  / Visualization
+Data_Preparation_and_Validation / Data_Story_Telling / Excel / Exploratory_Analysis_and_Modeling / ML /  Python / R / SQL / Stats  / Visualization /
 
 Hey there Python enthusiasts! 👋
 
